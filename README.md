@@ -1,6 +1,8 @@
 # regDIF
 Regularized Differential Item Functioning Use regDIF With (In) R Software
 
+https://www.youtube.com/watch?v=PIBmrV_QKwM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
